@@ -11,4 +11,4 @@ export default ({ animal }) => (
         </h3>
         <div className="animal__breed">{ animal.breed }</div>
     </section>
-)
+) 
