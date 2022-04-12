@@ -12,3 +12,5 @@ export default ({ animal }) => (
         <div className="animal__breed">{ animal.breed }</div>
     </section>
 )
+
+//comment
